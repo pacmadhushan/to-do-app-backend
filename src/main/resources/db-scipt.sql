@@ -5,5 +5,5 @@ CREATE TABLE user(
     password VARCHAR(200) NOT NULL
 );
 CREATE TABLE to-do-item (
-
-)
+    description
+);
