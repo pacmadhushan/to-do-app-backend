@@ -4,8 +4,7 @@ CREATE TABLE IF NOT EXISTS user(
     user_name VARCHAR(200)  PRIMARY KEY ,
     password VARCHAR(200) NOT NULL
 );
-CREATE TABLE to-do-item (
-    id
 
 
-)
+
+
